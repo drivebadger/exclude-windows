@@ -1,0 +1,151 @@
+mnt/AMD
+mnt/ATI
+mnt/Boot
+mnt/dell
+mnt/Drivers
+mnt/ESD/Windows
+mnt/Fujitsu
+mnt/Intel
+mnt/OEM
+mnt/Recovery
+mnt/SWSetup
+
+AppData/Local/Packages
+AppData/Local/Microsoft/FontCache
+AppData/Local/Microsoft/OneDrive/17.*/
+AppData/Local/Microsoft/OneDrive/18.*/
+AppData/Local/Microsoft/OneDrive/19.*/
+AppData/Local/Microsoft/OneDrive/20.*/
+AppData/Local/Microsoft/Windows/Explorer
+
+Microsoft/ClickToRun
+Microsoft/Diagnosis
+Microsoft/OEMOffice14
+Microsoft/OEMOffice15
+Microsoft/OneDrive
+Microsoft/Skype for Desktop
+Microsoft/Teams/current
+Microsoft/Teams/packages
+Microsoft/Teams/previous
+Microsoft/Templates/LiveContent
+Microsoft/Windows/RetailDemo/OfflineContent
+Microsoft/Windows/WER
+
+Program Files/Acer
+Program Files/Adobe
+Program Files/Dell
+Program Files/DVD Maker
+Program Files/Intel
+Program Files/Internet Explorer
+Program Files/Java
+Program Files/LibreOffice
+Program Files/Microsoft Help Viewer
+Program Files/Microsoft Office
+Program Files/Microsoft Office 15
+Program Files/Microsoft Silverlight
+Program Files/Mozilla Firefox
+Program Files/Mozilla Thunderbird
+Program Files/NVIDIA Corporation
+Program Files/OpenOffice 4
+Program Files/OpenOffice.org */
+Program Files/PDFCreator
+Program Files/Realtek
+Program Files/Softland
+Program Files/Synaptics
+Program Files/VideoLAN
+Program Files/WIDCOMM
+
+Program Files (x86)/Acer
+Program Files (x86)/Adobe
+Program Files (x86)/Creative
+Program Files (x86)/CyberLink
+Program Files (x86)/Dell
+Program Files (x86)/Dell Digital Delivery Services
+Program Files (x86)/Foxit PhantomPDF
+Program Files (x86)/Intel
+Program Files (x86)/Internet Explorer
+Program Files (x86)/Java
+Program Files (x86)/OpenOffice 4
+Program Files (x86)/OpenOffice.org */
+Program Files (x86)/Microsoft Help Viewer
+Program Files (x86)/Microsoft Office
+Program Files (x86)/Microsoft.NET
+Program Files (x86)/Mozilla Firefox
+Program Files (x86)/Mozilla Thunderbird
+Program Files (x86)/PDFCreator
+Program Files (x86)/Realtek
+Program Files (x86)/SanDisk
+Program Files (x86)/Skype
+Program Files (x86)/Softland
+Program Files (x86)/Teams Installer
+Program Files (x86)/VideoLAN
+Program Files (x86)/Windows Live
+
+Windows/assembly
+Windows/Boot
+Windows/ConfigSetRoot
+Windows/Containers
+Windows/Cursors
+Windows/Drivers
+Windows/ehome
+Windows/Fonts
+Windows/Globalization
+Windows/Help
+Windows/IME
+Windows/INF
+Windows/inf
+Windows/InputMethod
+Windows/Installer
+Windows/LiveKernelReports
+Windows/Microsoft.NET
+Windows/Panther
+Windows/Performance
+Windows/Prefetch
+Windows/ServiceProfiles
+Windows/servicing
+Windows/ShellExperiences
+Windows/SoftwareDistribution
+Windows/Speech
+Windows/Speech_OneCore
+Windows/System32
+Windows/SystemApps
+Windows/SystemResources
+Windows/SysWOW64
+Windows/WinSxS
+Windows/winsxs
+
+hiberfil.sys
+pagefile.sys
+swapfile.sys
+
+$WINDOWS.~BT/
+$Windows.~WS/
+Config.Msi/
+Downloaded Installations/
+InstallShield Installation Information/
+Intel.sav/
+MSOCache/
+Package Cache/
+PerfLogs/
+Reference Assemblies/
+System Recovery/
+System Volume Information/
+WildTangent/
+Windows.old/
+
+Adobe/ARM
+Adobe/Reader/DC
+Adobe/Setup
+Common Files/Intel
+Common Files/microsoft shared
+Common Files/Microsoft Shared
+Creative/Software Update
+Foxit Software/Foxit Reader
+Intel/Package Cache
+Microsoft/Edge
+Microsoft/EdgeUpdate
+Oracle/Java
+Samsung/Samsung Magician
+Sun/Java
+
+HP/HP LaserJet */
