@@ -45,6 +45,7 @@ Program Files/Microsoft Office 15
 Program Files/Microsoft Silverlight
 Program Files/Mozilla Firefox
 Program Files/Mozilla Thunderbird
+Program Files/MSECache
 Program Files/NVIDIA Corporation
 Program Files/OpenOffice 4
 Program Files/OpenOffice.org */
@@ -54,6 +55,8 @@ Program Files/Softland
 Program Files/Synaptics
 Program Files/VideoLAN
 Program Files/WIDCOMM
+Program Files/Windows Live
+Program Files/Windows Sidebar
 
 Program Files (x86)/Acer
 Program Files (x86)/Adobe
@@ -72,6 +75,7 @@ Program Files (x86)/Microsoft Office
 Program Files (x86)/Microsoft.NET
 Program Files (x86)/Mozilla Firefox
 Program Files (x86)/Mozilla Thunderbird
+Program Files (x86)/MSECache
 Program Files (x86)/PDFCreator
 Program Files (x86)/Realtek
 Program Files (x86)/SanDisk
@@ -147,5 +151,6 @@ Microsoft/EdgeUpdate
 Oracle/Java
 Samsung/Samsung Magician
 Sun/Java
+Windows Live/.cache
 
 HP/HP LaserJet */
