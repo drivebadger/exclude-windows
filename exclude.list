@@ -1,3 +1,7 @@
+*.msp
+*.msu
+*.mzz
+
 *.wim
 *.WIM
 *.swm
