@@ -9,7 +9,7 @@ by eliminating files and directories, that are not valuable in any way to the at
 - hardware drivers, including for peripheral devices (Creative soundcards, HP printers etc.)
 - preinstalled OEM software (Acer, Dell, Fujitsu etc.)
 - common software: Java, VLC, Mozilla Firefox/Thunderbird, LibreOffice
-- PDF readers/writers: Adobe Reader, Foxit Reader, Foxit PhantomPDF, novaPDF, PDFCreator
+- PDF readers/writers: Adobe Reader, Foxit Reader, Foxit PhantomPDF, novaPDF, PDF Architect, PDFCreator
 
 ### Installing
 
