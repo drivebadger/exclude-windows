@@ -124,12 +124,20 @@ Windows/ShellExperiences
 Windows/SoftwareDistribution
 Windows/Speech
 Windows/Speech_OneCore
+Windows/system32
 Windows/System32
 Windows/SystemApps
 Windows/SystemResources
 Windows/SysWOW64
 Windows/WinSxS
 Windows/winsxs
+
+WINDOWS/assembly
+WINDOWS/Microsoft.NET
+WINDOWS/system32
+WINDOWS/System32
+WINDOWS/WinSxS
+WINDOWS/winsxs
 
 $WINDOWS.~BT/
 $Windows.~WS/
@@ -139,6 +147,8 @@ InstallShield Installation Information/
 Intel.sav/
 MSOCache/
 Package Cache/
+PDF Architect 4/
+PDF Architect 8/
 PerfLogs/
 Reference Assemblies/
 System Recovery/
@@ -161,7 +171,6 @@ Microsoft/Edge/Application
 Microsoft/EdgeUpdate
 NVIDIA Corporation/Downloader
 Oracle/Java
-PDF Architect 8/Installation
 Samsung/Samsung Magician
 Sun/Java
 Windows Live/.cache
