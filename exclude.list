@@ -133,6 +133,7 @@ Windows/WinSxS
 Windows/winsxs
 
 WINDOWS/assembly
+WINDOWS/inf
 WINDOWS/Microsoft.NET
 WINDOWS/system32
 WINDOWS/System32
