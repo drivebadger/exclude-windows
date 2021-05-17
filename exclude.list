@@ -134,7 +134,9 @@ Windows/winsxs
 
 WINDOWS/assembly
 WINDOWS/inf
+WINDOWS/Installer
 WINDOWS/Microsoft.NET
+WINDOWS/SoftwareDistribution
 WINDOWS/system32
 WINDOWS/System32
 WINDOWS/WinSxS
