@@ -7,6 +7,8 @@
 *.swm
 *.SWM
 
+langpacks/*/lp.cab
+
 mnt/AMD
 mnt/ATI
 mnt/Boot
