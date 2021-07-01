@@ -32,8 +32,13 @@ AppData/Local/Microsoft/Windows/Explorer
 Microsoft/Application Virtualization Client
 Microsoft/ClickToRun
 Microsoft/Diagnosis
+Microsoft/Edge/Application
+Microsoft/Edge/User Data/Default/Service Worker/CacheStorage
+Microsoft/EdgeCore
+Microsoft/EdgeUpdate
 Microsoft/OEMOffice14
 Microsoft/OEMOffice15
+Microsoft/Office/SolutionPackages
 Microsoft/OneDrive
 Microsoft/Skype for Desktop
 Microsoft/Teams/current
@@ -106,11 +111,13 @@ Windows/CheckSur
 Windows/ConfigSetRoot
 Windows/Containers
 Windows/Cursors
+Windows/diagnostics
 Windows/Drivers
 Windows/ehome
 Windows/Fonts
 Windows/Globalization
 Windows/Help
+Windows/HoloShell
 Windows/IME
 Windows/INF
 Windows/inf
@@ -120,6 +127,7 @@ Windows/LiveKernelReports
 Windows/Microsoft.NET
 Windows/Panther
 Windows/Performance
+Windows/PolicyDefinitions
 Windows/Prefetch
 Windows/ServiceProfiles
 Windows/servicing
@@ -170,15 +178,14 @@ Common Files/microsoft shared
 Common Files/Microsoft Shared
 Creative/Software Update
 Foxit Software/Foxit Reader
+HP/Documentation
 Intel/Package Cache
 Lenovo/ImController
 Lenovo/UserGuide
-Microsoft/Edge/Application
-Microsoft/EdgeCore
-Microsoft/EdgeUpdate
 NVIDIA Corporation/Downloader
 Oracle/Java
 Samsung/Samsung Magician
+SteelSeries/SteelSeries Engine 3
 Sun/Java
 Windows Live/.cache
 
