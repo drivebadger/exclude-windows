@@ -36,6 +36,7 @@ Microsoft/Edge/Application
 Microsoft/Edge/User Data/Default/Service Worker/CacheStorage
 Microsoft/EdgeCore
 Microsoft/EdgeUpdate
+Microsoft/EdgeWebView/Application
 Microsoft/OEMOffice14
 Microsoft/OEMOffice15
 Microsoft/Office/SolutionPackages
