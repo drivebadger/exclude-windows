@@ -47,6 +47,7 @@ Microsoft/Teams/packages
 Microsoft/Teams/previous
 Microsoft/Templates/LiveContent
 Microsoft/Windows/AppRepository/Packages
+Microsoft/Windows/DeviceMetadataCache/dmrccache
 Microsoft/Windows/RetailDemo/OfflineContent
 Microsoft/Windows/WER
 
