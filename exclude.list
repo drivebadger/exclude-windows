@@ -109,6 +109,7 @@ Program Files (x86)/Windows Live
 
 Windows/assembly
 Windows/Boot
+Windows/CbsTemp
 Windows/CheckSur
 Windows/ConfigSetRoot
 Windows/Containers
@@ -146,6 +147,7 @@ Windows/WinSxS
 Windows/winsxs
 
 WINDOWS/assembly
+WINDOWS/CbsTemp
 WINDOWS/inf
 WINDOWS/Installer
 WINDOWS/Microsoft.NET
