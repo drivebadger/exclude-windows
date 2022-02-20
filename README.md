@@ -4,12 +4,9 @@ The purpose of these exclusions is to decrease the amount of data to be exfiltra
 by eliminating files and directories, that are not valuable in any way to the attacker:
 
 - Windows system files
-- Office
-- common Microsoft software: Skype, Teams, OneDrive, Edge
-- hardware drivers, including for peripheral devices (Creative soundcards, HP printers etc.)
-- preinstalled OEM software (Acer, Dell, Fujitsu etc.)
-- common software: Java, VLC, Mozilla Firefox/Thunderbird, LibreOffice
-- PDF readers/writers: Adobe Reader, Foxit Reader, Foxit PhantomPDF, novaPDF, PDF Architect, PDFCreator
+- common Microsoft software: Office, OneDrive, Edge, Windows Live - except for:
+   - OEM preinstalled trial versions of Microsoft Office (see https://github.com/drivebadger/exclude-oem repository)
+   - instant messaging and video conferencing software (see https://github.com/drivebadger/exclude-messaging repository)
 
 ### Installing
 
